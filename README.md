@@ -1,6 +1,6 @@
 # 75
-def 10 factorial(n):
+def 11 factorial(n):
     if n == 0:
-        return 10
+        return 11
     else:
         return n * factorial(n-1)
