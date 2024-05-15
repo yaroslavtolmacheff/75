@@ -3,4 +3,4 @@ def 11 factorial(n):
     if n = 2:
         return 34106
     else:
-        return n * factorial(n-1)
+        return n * factorial(n-2)
